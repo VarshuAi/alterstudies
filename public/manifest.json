@@ -1,0 +1,11 @@
+{
+  "name": "AlterStudies",
+  "short_name": "AlterStudies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0EA5E9",
+  "icons": [
+    { "src": "/alterstudies-icon.svg", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
