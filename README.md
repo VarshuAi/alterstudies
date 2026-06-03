@@ -13,13 +13,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20alterstudies%20%F0%9F%9A%80;%3E%20Built%20using%20TypeScript%20%7C%20Optimized%20%26%20Secure;%3E%20Cyberpunk%20Premium%20Theme%20Applied.)](https://github.com/VarshuAi/alterstudies)
+<a href="https://github.com/VarshuAi/alterstudies"><img src="https://readme-typing-svg.demolab.com?font=Space%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20alterstudies%20%F0%9F%9A%80;%3E%20Built%20using%20TypeScript%20%7C%20Optimized%20%26%20Secure;%3E%20Cyberpunk%20Premium%20Theme%20Applied." alt="Typing SVG"/></a>
 
 <br/>
 
-![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
-![Language](https://img.shields.io/badge/TypeScript-Tech-00CC66?style=for-the-badge&logo=typescript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/TypeScript-Tech-00CC66?style=for-the-badge&logo=typescript&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00150A,50:002D1A,75:00150A,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
@@ -68,13 +68,11 @@ primary_tech: TypeScript
 <samp>&nbsp;COMMANDS & USAGE</samp>
 </h2>
 
-1) cp .env.example .env.local and fill Firebase keys + NEXT_PUBLIC_FCM_VAPID_KEY
-2) Firebase Console:
-   - Enable Authentication -> Google
-   - Firestore (production), Storage
-   - Authentication -> Settings -> Authorized domains -> add localhost and your Netlify domain later
-3) npm install
-4) npm run dev
+```bash
+# Clone the repository structure
+git clone https://github.com/VarshuAi/alterstudies.git
+cd alterstudies
+```
 
 <!-- ============================== TECH STACK ============================== -->
 
@@ -131,12 +129,12 @@ alterstudies/
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Space%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
-[![Repo](https://img.shields.io/badge/alterstudies-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/alterstudies)
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/alterstudies"><img src="https://img.shields.io/badge/alterstudies-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
 
 <br/>
 
