@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  No description available for this project.
+  name: alterstudies version: 1.0 type: Repository author: VarshuAi description: >   No description available for this project. primary_tech: TypeScript
 primary_tech: TypeScript
 ```
 
